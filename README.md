@@ -1,1 +1,1 @@
-# This is a new repository created for Local Repository
+# This repository is for an assignment of web-dev course offered by Johns Hopkins University
