@@ -1,0 +1,34 @@
+body {
+    background-color: antiquewhite;
+    font-family: poppins, helvetica, arial, sans-serif;
+    font-size: 16px;
+    color: darkolivegreen;
+
+}
+#nav-background {
+    background-color: olive;
+    border-radius: 0%;
+    border: 0;
+    height: 80px;
+}
+.navbar-brand {
+   /* float: none; */
+    padding: 0%;
+}
+.navbar-brand h1 {
+    color: antiquewhite;
+    font-weight: bold;
+    text-shadow: 1px 1px 1px black;
+}
+.navbar-brand a:hover, .navbar-brand a:focus {
+    text-decoration: none;
+}
+button .glyphicon-th-list {
+    font-size: 2em;
+    color: antiquewhite;
+}
+.navbar-header button.navbar-toggle {
+    padding: 5px;
+    margin-top: 15px;
+    border: 1px solid antiquewhite;
+}
