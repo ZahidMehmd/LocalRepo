@@ -32,3 +32,27 @@ button .glyphicon-th-list {
     margin-top: 15px;
     border: 1px solid antiquewhite;
 }
+#nav-items a {
+    text-align: center;
+    color: antiquewhite;
+}
+h2 {
+    text-align: center;
+}
+section h3 {
+    text-align: center;
+}
+section {
+    background-color: gainsboro;
+    height: 1000px;
+    margin-bottom: 15px;
+}
+@media (max-width: 767px) {
+    #nav-ul li {
+        background-color: olive;
+    }
+    #nav-ul hr {
+        border: 1px solid antiquewhite;
+        margin: 0;
+    }
+}
